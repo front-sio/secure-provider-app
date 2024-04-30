@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191718183140",
+    "project_id": "inlyfe-handyman-project",
+    "storage_bucket": "inlyfe-handyman-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191718183140:android:fce531c8ffccd5d9499cf1",
+        "android_client_info": {
+          "package_name": "com.inlyfe.secureprovider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97JLgp-UQ0kN8Y1YOOTvZDFty7cQ2xsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,81 @@
+name: secureprovider
+description: "A new Flutter project."
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  
+  cupertino_icons: ^1.0.6
+  iconsax:
+
+  http:
+  logger:
+  intl:
+  url_launcher:
+  connectivity_plus:
+  lottie:
+  shimmer:
+  image_picker:
+  cached_network_image:
+  flutter_otp_text_field:
+  uuid:
+  get:
+  get_storage:
+  flutter_native_splash:
+  flutter_rating_bar:
+  smooth_page_indicator:
+
+  # firebase
+  firebase_core:
+  firebase_auth:
+  firebase_storage:
+  cloud_firestore:
+  google_sign_in:
+
+  # provider specific
+  carousel_slider:
+  readmore:
+  otp_text_field:
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/services/
+    - assets/logos/
+    - assets/animation/
+    - assets/icons/
+ 
+
+ 
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
